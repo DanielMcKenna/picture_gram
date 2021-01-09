@@ -1,4 +1,16 @@
 body {
-  background: #488BD2;
-
+  background: #90B7E1;
+  font-family: "Nunito", sans-serif;
 }
+
+#main_navbar .navbar-brand{
+  color: #071A3A;
+}
+
+#main_navbar .nav-link{
+  color: #FFFFFF;
+}
+
+/* dark: 071A3A, 100%
+   pink: EE4890, 100% 
+   Light- blue: 90B7E1, 100%*/

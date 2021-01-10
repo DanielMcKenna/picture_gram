@@ -3,12 +3,22 @@ body {
   font-family: "Nunito", sans-serif;
 }
 
+#main_navbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
 #main_navbar .navbar-brand{
   color: #071A3A;
 }
 
 #main_navbar .nav-link{
   color: #FFFFFF;
+  border: none;
+}
+#main_navbar .nav-link:hover{
+  color: #071A3A;
+  border-bottom: 1px solid #EE4890;
 }
 
 /* dark: 071A3A, 100%

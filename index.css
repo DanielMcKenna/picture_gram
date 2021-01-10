@@ -53,6 +53,14 @@ body {
   color: #EE4890;
 }
 
+.content {
+  margin-top: 50px;
+}
+
+.navbar.scroll {
+  background: #EE4890;
+}
+
 @media (max-width: 1200px) {
   .top-para h1 {
     font-weight: 100;

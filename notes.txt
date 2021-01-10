@@ -1,0 +1,10 @@
+I did this for the day 1 of 100 days of coding challenge.
+
+I learned a lot about bootstraps grid and somewhat using flexbox. I will still like to take time to practice flexbox I can
+see how this would be useful and its something I will want and need to get down for website layout.
+
+Something that I found harder then I thought would of been hard was edting Bootstrap CSS. I ended up having to create more 
+classes and learing about Specificity which I actually really enjoyed.
+
+overall this was a good time. I know there is still links that are not active in the web page and I could do better
+design but overall I am happy with what I have learned and excited to continue learning

@@ -21,6 +21,45 @@ body {
   border-bottom: 1px solid #EE4890;
 }
 
+.top-para {
+  color: #071A3A;
+}
+
+.top-para h1 {
+  font-weight: 100;
+  font-size: 4rem;
+  margin-bottom: 1px;
+}
+
+.top-para hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  width: 50%;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.top-para span {
+  color: #EE4890;
+}
+
+@media (max-width: 1200px) {
+  .top-para h1 {
+    font-weight: 100;
+    font-size: 3rem;
+    margin-bottom: 1px;
+  }
+  .top-para hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    width: 50%;
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+}
+
 /* dark: 071A3A, 100%
    pink: EE4890, 100% 
    Light- blue: 90B7E1, 100%*/
